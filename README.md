@@ -24,20 +24,20 @@ Procrastination: Temporarily delays life attackers.
 
 Echo: Shoots pizza at life attackers.
 
-
-
-
-
 ## Visual demo
 You can view a visual demo of the game [here]( https://youtu.be/VjRZuAuTEJk?si=N4l10gj19Pb90Dg2).
 
 ## Copyright 
 "Student vs Life" is heavily inspired by the game Plants vs Zombies. All rights for "Plants vs Zombies" belong to its respective creators.
 
-<img align="middle" width=200 height = 200 src="./src/main/resources/STIPEND.jpeg">
-<img align="middle" width=200 height = 200 src="./src/main/resources/BED.jpg">
-<img align="middle" width=200 height = 200 src="./src/main/resources/STOP.jpg">
-<img align="middle" width=200 height = 200 src="./src/main/resources/ECHO.jpg">
+<img align="right" width=200 height = 200 src="./src/main/resources/STOP.jpg">
+<img align="right" width=200 height = 200 src="./src/main/resources/BED.jpg">
+<img align="right" width=200 height = 200 src="./src/main/resources/STIPEND.jpeg">
+<img align="right" width=200 height = 200 src="./src/main/resources/ECHO.jpg">
+
+
+
+
 
 
 
