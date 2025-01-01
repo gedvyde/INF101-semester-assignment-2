@@ -1,0 +1,9 @@
+Game Over
+
+Your academic journey has come to an end.
+Unfortunately, you've exhausted all your
+"kont" attempts and must start over from the
+beginning. Look on the bright side, 
+though — you can relive the "fadder uken"!
+
+Press ENTER to try again.

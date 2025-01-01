@@ -1,0 +1,17 @@
+"Fadder" week:
+
+You won't get anything done without sleep! Sleep is the currency
+in the game. Purchase items using sleep to help you survive
+life as a new student. To play click on the piece you want
+to purchase, then click on the desired spot on the game board.
+
+Items available:
+- Bed: Take naps to generate sleep. (Price: 50)
+- Stipend Gun: A student's best friend, providing financial
+relief in times of need (Price: 100 Toughness: 300, Damage: 25)
+
+"Fadder week" will give you a taste test of what life as 
+a student can be. You will learn that both sleep and 
+stipend are crucial for survival.
+
+Press ENTER to continue.
